@@ -44,7 +44,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/AswinMathew2004/recon.git
+git clone https://github.com/AswinMathew2004/recon
 cd recon
 
 # 2. Make executable (optional)
